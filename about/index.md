@@ -18,11 +18,31 @@ Currently, I'm focusing on **data clustering, classification and visualization**
 
 ### Now Using
 
-![python](https://img.shields.io/badge/python-2017~Now-green.svg?logo=python&style=for-the-badge&colorB=3776AB) ![scala](https://img.shields.io/badge/scala-2018~Now-green.svg?logo=scala&style=for-the-badge&colorB=DC322F) ![brightics](https://img.shields.io/badge/Brightics-2017~Now-green.svg?logo=samsung&style=for-the-badge&colorB=1428A0) ![SQL](https://img.shields.io/badge/SQL-2010~Now-green.svg?logo=mysql&style=for-the-badge&colorB=4479A1)  ![D3](https://img.shields.io/badge/D3-2017~Now-green.svg?logo=d3.js&style=for-the-badge&colorB=F9A03C) 
+![python](https://img.shields.io/badge/python-2017~Now-green.svg?logo=python&style=for-the-badge&colorB=3776AB) 
+
+![scala](https://img.shields.io/badge/scala-2018~Now-green.svg?logo=scala&style=for-the-badge&colorB=DC322F) 
+
+![brightics](https://img.shields.io/badge/Brightics-2017~Now-green.svg?logo=samsung&style=for-the-badge&colorB=1428A0) 
+
+![SQL](https://img.shields.io/badge/SQL-2010~Now-green.svg?style=for-the-badge&colorB=4479A1) 
+
+![D3](https://img.shields.io/badge/D3-2017~Now-green.svg?logo=d3.js&style=for-the-badge&colorB=F9A03C) 
 
 ### Used
 
-![Java](https://img.shields.io/badge/java-2014~2017-green.svg?logo=java&style=for-the-badge&colorB=007396) ![AWS](https://img.shields.io/badge/AWS-2016~2017-green.svg?logo=amazon&style=for-the-badge&colorB=FF9900)![Kotlin](https://img.shields.io/badge/kotlin-2016~2017-green.svg?logo=kotlin&style=for-the-badge&colorB=0095D5) ![R](https://img.shields.io/badge/R-2017-green.svg?logo=r&style=for-the-badge&colorB=276DC3) ![firebase](https://img.shields.io/badge/firebase-2016~2017-green.svg?logo=firebase&style=for-the-badge&colorB=FFCA28) ![javscript](https://img.shields.io/badge/javascript-2017~2018-green.svg?logo=javascript&style=for-the-badge&colorB=F7DF1E) ![delphi](https://img.shields.io/badge/delphi-2014~2015-green.svg?style=for-the-badge&colorB=E42627)
+![Java](https://img.shields.io/badge/java-2014~2017-green.svg?logo=java&style=for-the-badge&colorB=007396) 
+
+![AWS](https://img.shields.io/badge/AWS-2016~2017-green.svg?logo=amazon&style=for-the-badge&colorB=FF9900) 
+
+![Kotlin](https://img.shields.io/badge/kotlin-2016~2017-green.svg?logo=kotlin&style=for-the-badge&colorB=0095D5)  
+
+![R](https://img.shields.io/badge/R-2017-green.svg?logo=r&style=for-the-badge&colorB=276DC3) 
+
+![firebase](https://img.shields.io/badge/firebase-2016~2017-green.svg?logo=firebase&style=for-the-badge&colorB=FFCA28) 
+
+![javscript](https://img.shields.io/badge/javascript-2017~2018-green.svg?logo=javascript&style=for-the-badge&colorB=F7DF1E) 
+
+![delphi](https://img.shields.io/badge/delphi-2014~2015-green.svg?style=for-the-badge&colorB=E42627) 
 
 
 
