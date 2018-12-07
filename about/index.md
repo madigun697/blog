@@ -45,26 +45,26 @@ Currently, I'm focusing on **data clustering, classification and visualization**
 
 ### Official
 
-* [**Intelligent Logistics Risk Analytics**](https://madigun697.github.io/blog/Prediction-of-shipping-delay-based-on-AIS-Data) - Prediction of shipping delay based on AIS Data(May 2018 – October 2018, Samsung SDS)
+* [**Intelligent Logistics Risk Analytics**](https://madigun697.github.io/blog/Prediction-of-shipping-delay-based-on-AIS-Data) - Prediction of shipping delay based on AIS Data(May 2018 – October 2018, Samsung SDS) <br>
   ![python](https://img.shields.io/badge/python-green.svg?logo=python&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![scala](https://img.shields.io/badge/scala-green.svg?logo=scala&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![brightics](https://img.shields.io/badge/Brightics-green.svg?logo=samsung&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![MSSQL](https://img.shields.io/badge/MSSQL-green.svg?logo=microsoft&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![Spark](https://img.shields.io/badge/Spark-green.svg?style=for-the-badge&colorB=AAAAAA){:class="img-badge"} 
-* **Comnected Car Analytics** (August 2017 – February 2018, Samsung SDS) 
+* **Comnected Car Analytics** (August 2017 – February 2018, Samsung SDS)  <br>
   ![kotlin](https://img.shields.io/badge/kotlin-green.svg?logo=kotlin&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![aws](https://img.shields.io/badge/AWS-green.svg?logo=amazon&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![java](https://img.shields.io/badge/java-green.svg?logo=java&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![python](https://img.shields.io/badge/python-green.svg?logo=python&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![r](https://img.shields.io/badge/r-green.svg?logo=r&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![brightics](https://img.shields.io/badge/Brightics-green.svg?logo=samsung&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![mysql](https://img.shields.io/badge/mysql-green.svg?logo=mysql&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} 
-* **CheckNow & Goodial** (December 2016 – August 2017, Samsung SDS)
+* **CheckNow & Goodial** (December 2016 – August 2017, Samsung SDS)  <br>
   ![kotlin](https://img.shields.io/badge/kotlin-green.svg?logo=kotlin&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![java](https://img.shields.io/badge/java-green.svg?logo=java&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![python](https://img.shields.io/badge/python-green.svg?logo=python&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![firebase](https://img.shields.io/badge/firebase-green.svg?logo=firebase&style=for-the-badge&colorB=AAAAAA){:class="img-badge"}
-* **Samsung SDI Supply Chain Management System Maintenance** (March 2016 – December 2016, Samsung SDS)
+* **Samsung SDI Supply Chain Management System Maintenance** (March 2016 – December 2016, Samsung SDS)  <br>
    ![java](https://img.shields.io/badge/java-green.svg?logo=java&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![javascript](https://img.shields.io/badge/javascript-green.svg?logo=javascript&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![oracle](https://img.shields.io/badge/OracleDB-green.svg?style=for-the-badge&colorB=AAAAAA){:class="img-badge"} 
-* **Electronic Health-care Records** (June 2015 – February 2016, Samsung SDS)
+* **Electronic Health-care Records** (June 2015 – February 2016, Samsung SDS)  <br>
    ![delphi](https://img.shields.io/badge/delphi-green.svg?style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![java](https://img.shields.io/badge/java-green.svg?logo=java&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} 
 * **Sejong Center for the Performing Arts Integrated Theater Management System ISP** (April 2013 – June 2013, Center for Management Information)
 * **Seoul Agro-Fisheries & Food Corporation Fair Trading System Project** (June 2011 – October 2011, Center for Management Information)
 
 ### Personal
 
-* [**Football Winning Goal Analysis**](https://github.com/madigun697/football_data_analysis) (December 2017 ~August 2018)
+* [**Football Winning Goal Analysis**](https://github.com/madigun697/football_data_analysis) (December 2017 ~August 2018)  <br>
   ![python](https://img.shields.io/badge/python-green.svg?logo=python&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![jupyter](https://img.shields.io/badge/jupyter-green.svg?logo=jupyter&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![mysql](https://img.shields.io/badge/mysql-green.svg?logo=mysql&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![keras](https://img.shields.io/badge/keras-green.svg?style=for-the-badge&colorB=AAAAAA){:class="img-badge"} 
-* [**Bitcoin Auto-Trading System**](https://github.com/madigun697/auto_trader_kyle) (January 2018 ~ February 2018)
+* [**Bitcoin Auto-Trading System**](https://github.com/madigun697/auto_trader_kyle) (January 2018 ~ February 2018)  <br>
   ![python](https://img.shields.io/badge/python-green.svg?logo=python&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![bitcoin](https://img.shields.io/badge/bitcoin-green.svg?logo=bitcoin&style=for-the-badge&colorB=AAAAAA){:class="img-badge"}
-* [**Telegram Chat-Bot Project**](https://github.com/madigun697/aladin-usedbook-search-bot) - Searching available book in Korean used book on-line market (January 2017)
+* [**Telegram Chat-Bot Project**](https://github.com/madigun697/aladin-usedbook-search-bot) - Searching available book in Korean used book on-line market (January 2017)  <br>
   ![python](https://img.shields.io/badge/python-green.svg?logo=python&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![google](https://img.shields.io/badge/google-green.svg?logo=google&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![telegram](https://img.shields.io/badge/telegram-green.svg?logo=telegram&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} 
 
 
