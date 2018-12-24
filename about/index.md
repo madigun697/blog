@@ -12,7 +12,7 @@ I'm a **data engineer and sw engineer** working at **Samsung SDS**. I was partic
 
 Currently, I'm focusing on **data clustering, classification and visualization** using Keras, D3.js, Flask and Electron
 
-
+For more information, **[refer to my resume](https://drive.google.com/open?id=1H-OJfPT6RbZ4CBHz9rtCDtgRB0oohBcI)**
 
 ## Skills
 
@@ -68,7 +68,3 @@ Currently, I'm focusing on **data clustering, classification and visualization**
   ![python](https://img.shields.io/badge/python-green.svg?logo=python&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![bitcoin](https://img.shields.io/badge/bitcoin-green.svg?logo=bitcoin&style=for-the-badge&colorB=AAAAAA){:class="img-badge"}
 * [**Telegram Chat-Bot Project**](https://github.com/madigun697/aladin-usedbook-search-bot) - Searching available book in Korean used book on-line market (January 2017)  <br>
   ![python](https://img.shields.io/badge/python-green.svg?logo=python&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![google](https://img.shields.io/badge/google-green.svg?logo=google&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![telegram](https://img.shields.io/badge/telegram-green.svg?logo=telegram&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} 
-
-
-
-For more information, refer to my resume
