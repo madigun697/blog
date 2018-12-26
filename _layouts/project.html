@@ -22,7 +22,9 @@ layout: compress
                     </a>
                 </div>
                 <div class="post-list">
-                    {% for post in site.posts %} 
+                    {% assign sorted_posts = site.posts | sort: 'site.date' %}
+                    {% assign reversed_posts = sorted_posts | reverse %}
+                    {% for post in reversed_posts %} 
                         {% if post.project %}
                     <ul>
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
