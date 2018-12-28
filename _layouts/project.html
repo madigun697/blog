@@ -23,16 +23,17 @@ layout: compress
                 </div>
                 <div class="post-list">
                     {% assign sorted_posts = site.posts | sort: 'date' %}
-                    {% for post in site.posts %} 
+                    {% assign reversed_posts = sorted_posts | reverse %}
+                    {% for post in reversed_posts %}
                         {% if post.project %}
-                    <ul>
-                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
-                            <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-                            <p>{{ post.excerpt }}</p>
-                            <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
-                        </li>
-                    </ul>
-                      {% endif %}
+                        <ul>
+                            <li class="wow fadeInLeft" data-wow-duration="1.5s">
+                                <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                                <p>{{ post.excerpt }}</p>
+                                <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
+                            </li>
+                        </ul>
+                        {% endif %}
                     {% endfor %}
                 </div>
             </div>
