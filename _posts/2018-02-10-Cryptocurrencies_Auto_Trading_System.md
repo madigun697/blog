@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cryptocurrencies Auto Trading System"
-date: 2018-12-21
+date: 2018-02-10
 excerpt: "Tracking Price Trend and Auto Trading"
 project: true
 tag:
