@@ -26,7 +26,7 @@ comments: false
     * 앞 단계서 넘어온 Character(w)의 Dictionary 번호와 현재 단계의 Character(c)를 Output에 추가
   * 마지막까지 남은 패턴의 경우 그대로 Output에 추가
 
-  ![1541999038888](./res/1541999038888.png)
+  ![1541999038888](https://user-images.githubusercontent.com/8471958/50721386-f257f180-1101-11e9-9fb9-7b4bf5d2602f.png)
 
 #### Decoding
 
@@ -36,7 +36,7 @@ comments: false
     (단, 0은 공백문자)
 
 
-  ![1541999456939](./res/1541999456939.png)
+  ![1541999456939](https://user-images.githubusercontent.com/8471958/50721387-f257f180-1101-11e9-8fb1-575fb678657d.png)
 
 
 
@@ -58,7 +58,7 @@ comments: false
   * 이전 단계의 패턴의 Dictionary Value를 Output에 저장
 * 마지막까지 남은 패턴의 경우 그대로 Output에 저장
 
-![1542000219154](./res/1542000219154.png)
+![1542000219154](https://user-images.githubusercontent.com/8471958/50721384-f257f180-1101-11e9-930b-7bfbb81b56a6.png)
 
 #### Decoding
 
@@ -68,7 +68,7 @@ comments: false
   * 각 Output에 해당하는 Character를 Text에 추가
   * 이전 Output의 Character와 현재 Output의 첫번째 Character 를 합친 패턴을 Dictionary 뒷부분(256~)에 추가
 
-![1542000564432](./res/1542000564432.png)
+![1542000564432](https://user-images.githubusercontent.com/8471958/50721385-f257f180-1101-11e9-8e6f-a928464a5fed.png)
 
 ---
 
