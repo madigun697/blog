@@ -4,7 +4,7 @@ title: "Cryptocurrencies Auto Trading System"
 date: 2018-02-10
 excerpt: "Tracking Price Trend and Auto Trading"
 project: true
-visible: false
+visible: true
 tag:
 - Cryptocurrency
 - Auto Trading
