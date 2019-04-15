@@ -3,6 +3,7 @@ layout: post
 title: "Aho-Corasick Algorithm"
 date: 2018-10-22
 excerpt: "Text Pattern Matching Algorithms"
+visible: true
 tags: 
 - text pattern matching
 - ahocorasick

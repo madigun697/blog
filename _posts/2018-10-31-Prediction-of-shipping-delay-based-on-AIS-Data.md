@@ -4,6 +4,7 @@ title:  "Prediction of shipping delay based on AIS Data"
 date:   2018-10-31
 excerpt: "Intelligent Logistics Risk Analytics"
 project: true
+visible: true
 tag:
 - AIS
 - prediction

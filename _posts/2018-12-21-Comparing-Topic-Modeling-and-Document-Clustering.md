@@ -4,6 +4,7 @@ title: "Comparing Topic Modeling and Document Clustering"
 date: 2018-12-21
 excerpt: "Visualization"
 project: true
+visible: true
 tag:
 - Topic Modeling
 - Document Clustering

@@ -25,7 +25,7 @@ layout: compress
                     {% assign sorted_posts = site.posts | sort: 'date' %}
                     {% assign reversed_posts = sorted_posts | reverse %}
                     {% for post in reversed_posts %}
-                        {% if post.project %}
+                        {% if post.project and post.visible %}
                         <ul>
                             <li class="wow fadeInLeft" data-wow-duration="1.5s">
                                 <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>

@@ -3,6 +3,7 @@ layout: post
 title: "Baker-Bird Algorithm"
 date: 2018-10-23
 excerpt: "Text Pattern Matching Algorithms"
+visible: true
 tags: 
 - text pattern matching
 - baker-bird

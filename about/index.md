@@ -6,7 +6,7 @@ date: 2018-12-07
 comments: false
 ---
 
-<center><a href="http://madigun697.github.io/blog"><b>Kyle</b></a> is a Data Engineer & SW Engineer... and Amatueur Photographer</center>
+<center><a href="http://madigun697.github.io/blog"><b>Joohyung You(Kyle)</b></a> is a Data Engineer & SW Engineer... and Amatueur Photographer</center>
 
 I'm a **data engineer and sw engineer** working at **Samsung SDS**. I was participating in a couple of **data analysis project**(i.e, prediction logistics, detecting abuser based on vessel fuel tank level) and several **software development projects** such as Electronic Health Record(EHR), Connected Car Analytics Solution Project. Before working at Samsung, I've worked as a **IT consultant** at **Softcamp**, and in the **University of Seoul**, I have researched **detecting abnormality in the auction market and design of ticket selling system**.
 
@@ -45,6 +45,10 @@ For more information, **[refer to my resume](https://drive.google.com/open?id=1H
 
 ### Official
 
+* [**Recommendation Information in ERP System**] - Recommendation Payment Method base on Account Payable(January 2019 - March 2019, Samsung SDS)<br>
+![python](https://img.shields.io/badge/python-green.svg?logo=python&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![scala](https://img.shields.io/badge/scala-green.svg?logo=scala&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![brightics](https://img.shields.io/badge/Brightics-green.svg?logo=samsung&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![MSSQL](https://img.shields.io/badge/MSSQL-green.svg?logo=microsoft&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![Spark](https://img.shields.io/badge/Spark-green.svg?style=for-the-badge&colorB=AAAAAA){:class="img-badge"} 
+* [**Recommendation Information in ERP System**] - Recommendation Account Payable Fields base on Digital Tax Invoice(January 2019 - March 2019, Samsung SDS)<br>
+![python](https://img.shields.io/badge/python-green.svg?logo=python&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![scala](https://img.shields.io/badge/scala-green.svg?logo=scala&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![brightics](https://img.shields.io/badge/Brightics-green.svg?logo=samsung&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![MSSQL](https://img.shields.io/badge/MSSQL-green.svg?logo=microsoft&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![Spark](https://img.shields.io/badge/Spark-green.svg?style=for-the-badge&colorB=AAAAAA){:class="img-badge"} 
 * [**Intelligent Logistics Risk Analytics**](https://madigun697.github.io/blog/Prediction-of-shipping-delay-based-on-AIS-Data) - Prediction of shipping delay based on AIS Data(May 2018 – October 2018, Samsung SDS) <br>
   ![python](https://img.shields.io/badge/python-green.svg?logo=python&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![scala](https://img.shields.io/badge/scala-green.svg?logo=scala&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![brightics](https://img.shields.io/badge/Brightics-green.svg?logo=samsung&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![MSSQL](https://img.shields.io/badge/MSSQL-green.svg?logo=microsoft&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![Spark](https://img.shields.io/badge/Spark-green.svg?style=for-the-badge&colorB=AAAAAA){:class="img-badge"} 
 * **Comnected Car Analytics** (August 2017 – February 2018, Samsung SDS)  <br>
