@@ -45,6 +45,8 @@ For more information, **[refer to my resume](https://drive.google.com/open?id=1H
 
 ### Official
 
+* **Warehouse Transportation Analytics** - Prediction of outbound based on Warehouse In/Outbound Trend(May 2019 – July 2019, Saumsung SDS)<br>
+![python](https://img.shields.io/badge/python-green.svg?logo=python&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![brightics](https://img.shields.io/badge/Brightics-green.svg?logo=samsung&style=for-the-badge&colorB=AAAAAA){:class="img-badge"}
 * **Recommendation Information in ERP System** - Recommendation Payment Method base on Account Payable(January 2019 - March 2019, Samsung SDS)<br>
 ![python](https://img.shields.io/badge/python-green.svg?logo=python&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![scala](https://img.shields.io/badge/scala-green.svg?logo=scala&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![brightics](https://img.shields.io/badge/Brightics-green.svg?logo=samsung&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![MSSQL](https://img.shields.io/badge/MSSQL-green.svg?logo=microsoft&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![Spark](https://img.shields.io/badge/Spark-green.svg?style=for-the-badge&colorB=AAAAAA){:class="img-badge"} 
 * **Recommendation Information in ERP System** - Recommendation Account Payable Fields base on Digital Tax Invoice(January 2019 - March 2019, Samsung SDS)<br>
