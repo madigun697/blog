@@ -12,7 +12,7 @@ I'm a **data engineer and sw engineer** working at **Samsung SDS**. I was partic
 
 Currently, I'm focusing on **data clustering, classification and visualization** using Keras, D3.js, Flask and Electron. I have interets in **Anomaly Detection and Recommendation System**.
 
-For more information, **[refer to my resume](https://drive.google.com/open?id=1H-OJfPT6RbZ4CBHz9rtCDtgRB0oohBcI)**
+For more information, **[refer to my resume](https://drive.google.com/open?id=1tWHSrwTDpcUPc9-N7q0i_sa_l_E_OOkl)**
 
 ## Skills
 
