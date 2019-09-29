@@ -10,7 +10,7 @@ comments: false
 
 I'm a **data engineer and sw engineer** working at **Samsung SDS**. I was participating in a couple of **data analysis project**(i.e, prediction logistics, detecting abuser based on vessel fuel tank level) and several **software development projects** such as Electronic Health Record(EHR), Connected Car Analytics Solution Project. Before working at Samsung, I've worked as a **IT consultant** at **Softcamp**, and in the **University of Seoul**, I have researched **detecting abnormality in the auction market and design of ticket selling system**.
 
-Currently, I'm focusing on **data clustering, classification and visualization** using Keras, D3.js, Flask and Electron
+Currently, I'm focusing on **data clustering, classification and visualization** using Keras, D3.js, Flask and Electron. I have interets in **Anomaly Detection and Recommendation System**.
 
 For more information, **[refer to my resume](https://drive.google.com/open?id=1H-OJfPT6RbZ4CBHz9rtCDtgRB0oohBcI)**
 
@@ -39,6 +39,7 @@ For more information, **[refer to my resume](https://drive.google.com/open?id=1H
 
 ## Education
 * Master's Degree, **Management Information System**(University of Seoul, 2012 ~ 2017)
+* Trainee, **Samsung Convergence Software Academy**(Samsung SDS, 2014)
 * Bachelor's Degree, **Business Administration and Management**(University of Seoul, 2005 ~ 2012)
 
 ## Projects
