@@ -12,7 +12,7 @@ I'm a **data engineer and sw engineer** working at **Samsung SDS**. I was partic
 
 Currently, I'm focusing on **data clustering, classification and visualization** using Keras, D3.js, Flask and Electron. I have interets in **Anomaly Detection and Recommendation System**.
 
-For more information, **[refer to my resume](https://drive.google.com/open?id=1tWHSrwTDpcUPc9-N7q0i_sa_l_E_OOkl)**
+For more information, **[refer to my resume](https://drive.google.com/open?id=1Vi-HlJNACPXCAyFeoTLqNumCCM-AFrm4)**
 
 ## Skills
 
@@ -67,11 +67,11 @@ For more information, **[refer to my resume](https://drive.google.com/open?id=1t
 
 ### Personal
 
-* [**Comparing Topic Modeling and Document Clustering**](https://madigun697.github.io/blog/Comparing-Topic-Modeling-and-Document-Clustering) (September 2018 ~ December 2018)  <br>
+* [**Interactive System of Document Clustering**](https://madigun697.github.io/blog/Comparing-Topic-Modeling-and-Document-Clustering) (September 2018 ~ February 2019)  <br>
   ![python](https://img.shields.io/badge/python-green.svg?logo=python&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![Electron](https://img.shields.io/badge/electron-green.svg?style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![D3](https://img.shields.io/badge/d3-green.svg?logo=d3.js&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![javascript](https://img.shields.io/badge/javascript-green.svg?logo=javascript&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} 
 * [**Football Winning Goal Analysis**](https://github.com/madigun697/football_data_analysis) (December 2017 ~ August 2018)  <br>
   ![python](https://img.shields.io/badge/python-green.svg?logo=python&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![jupyter](https://img.shields.io/badge/jupyter-green.svg?logo=jupyter&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![mysql](https://img.shields.io/badge/mysql-green.svg?logo=mysql&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![keras](https://img.shields.io/badge/keras-green.svg?style=for-the-badge&colorB=AAAAAA){:class="img-badge"} 
 * [**Bitcoin Auto-Trading System**](https://madigun697.github.io/blog/Cryptocurrencies_Auto_Trading_System) (January 2018 ~ February 2018)  <br>
   ![python](https://img.shields.io/badge/python-green.svg?logo=python&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![bitcoin](https://img.shields.io/badge/bitcoin-green.svg?logo=bitcoin&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![D3](https://img.shields.io/badge/d3-green.svg?logo=d3.js&style=for-the-badge&colorB=AAAAAA){:class="img-badge"}
-* [**Telegram Chat-Bot Project**](https://github.com/madigun697/aladin-usedbook-search-bot) - Searching available book in Korean used book on-line market (January 2017)  <br>
+* [**Telegram Chat-Bot Project**](https://github.com/madigun697/aladin-usedbook-search-bot) - Searching available book in Korean used book on-line market (February 2017)  <br>
   ![python](https://img.shields.io/badge/python-green.svg?logo=python&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![google](https://img.shields.io/badge/google-green.svg?logo=google&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![telegram](https://img.shields.io/badge/telegram-green.svg?logo=telegram&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} 
