@@ -6,7 +6,7 @@ date: 2018-12-07
 comments: false
 ---
 
-<center><a href="http://madigun697.github.io/blog"><b>Joohyung You(Kyle)</b></a> is a Data Engineer & SW Engineer... and Amatueur Photographer</center>
+<center><a href="http://madigun697.github.io/blog"><b>Joohyung You(Kyle)</b></a> is a Data Scientist & SW Engineer... and Amatueur Photographer</center>
 
 I have over 5 years of experience working in the IT field. Currently, I work as a **Data Scientist** in **Samsung SDS**, discovering insights and improving effectiveness for our customers by using data analytics and developing the novel methodology.
 
