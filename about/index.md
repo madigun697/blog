@@ -14,7 +14,7 @@ Previously, I was **Software Engineer** at Samsung SDS, where I developed and ma
 
 I am a **fast prototype builder**, too. To solve the problems or curiosities, I spend my time. From the used-book searching chatbot to the auto trading system, I have focused on reducing the discomforts using technologies. Moreover, I have analyzed varied fields of data for my friends who work in football, healthcare or law.
 
-For more information, **[refer to my resume](https://drive.google.com/open?id=16cgV6jRNmdMVgSw8p23x6HnQRHgOtBZP)**
+For more information, **[refer to my resume](https://drive.google.com/open?id=1AD8Foawql6i0rLxrSUi-Te-zxE1109ls)**
 
 ## Skills
 
