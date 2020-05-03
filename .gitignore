@@ -4,3 +4,5 @@ _site/
 **/.ipynb_checkpoints
 **/.DS_Store
 _backup/
+.jekyll-cache/**
+.gitignore

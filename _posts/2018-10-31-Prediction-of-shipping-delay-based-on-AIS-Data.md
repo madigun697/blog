@@ -14,8 +14,9 @@ tags:
 comments: false
 ---
 
-![KRPUS-USLGB_baseline](https://user-images.githubusercontent.com/8471958/49633346-5f616400-fa3c-11e8-89e8-c09471441166.png)
-​    
+<p align="center">
+<img src="https://user-images.githubusercontent.com/8471958/49633346-5f616400-fa3c-11e8-89e8-c09471441166.png">
+</p> 
 
 <center><b>The final baseline</b> from Port Busan(KRPUS) to Port Long-beach(USLGB).</center>
 

@@ -12,8 +12,10 @@ tags:
 comments: false
 ---
 
-![Accuracy](https://user-images.githubusercontent.com/8471958/56104493-e38ba100-5f72-11e9-8e7e-56a6f16ef574.png)
-    
+<p align="center">
+<img src="https://user-images.githubusercontent.com/8471958/56104493-e38ba100-5f72-11e9-8e7e-56a6f16ef574.png">
+</p>
+​    
 
 <center>The Accuracy by batch</center>
 

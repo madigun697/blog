@@ -14,8 +14,9 @@ tags:
 - DEC
 commnets: false
 ---
-
-![Comparing_Topic_Modeling](https://user-images.githubusercontent.com/8471958/50388845-8f12aa80-0764-11e9-85fd-528d92320165.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/8471958/50388845-8f12aa80-0764-11e9-85fd-528d92320165.png">
+</p>
 
 
 <center>Juxtapose 3 Models that using different techniques to Topic Modeling</center>
@@ -41,7 +42,9 @@ Clustering models are divided into several types according to using algorithms. 
 
 ## Dimension Reduction
 
-![U-MAP vs t-SNE](https://user-images.githubusercontent.com/8471958/50389355-a5bcff80-076c-11e9-9424-d8b2ff8fb9e3.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/8471958/50389355-a5bcff80-076c-11e9-9424-d8b2ff8fb9e3.png">
+</p>
 
 <center>U-MAP vs t-SNE<br><i>Umap: Uniform manifold approximation and projection for dimension reduction(McInnes, L., & Healy, J., 2018)</i></center>
 
@@ -49,13 +52,17 @@ To visualize documents, we used Uniform Manifold Approximation(U-MAP). t-SNE is 
 
 ## Extraction Keywords & Entity Recognition
 
-![keywords_extraction](https://user-images.githubusercontent.com/8471958/50389570-372d7100-076f-11e9-8026-cd0ddce68d41.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/8471958/50389570-372d7100-076f-11e9-8026-cd0ddce68d41.png">
+</p>
 
 <center>Extraction Keywords</center>
 
 For verifying clusters, we extract main keywords from each cluster. Keywords are determined by probability based on the frequency of a word in each cluster over frequency in overall documents. We use the pyLDAvis library to extract keywords. However, pyLDAvis is not supported extracting keywords from only LDA model. Because of that, we use a custom library called [kmeans to pyLDAvis](https://github.com/lovit/kmeans_to_pyLDAvis) made by lovit to extract keywords from the K-means and DEC model.
 
-![entity_recognition](https://user-images.githubusercontent.com/8471958/50390293-da36b880-0778-11e9-8442-a887e6344b23.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/8471958/50390293-da36b880-0778-11e9-8442-a887e6344b23.png">
+</p>
 
 <center>Entity Recognition</center>
 
@@ -63,7 +70,9 @@ Entity Recognition is another information to verify the cluster quality. We prov
 
 ## Implementation
 
-![overall_architecture](https://user-images.githubusercontent.com/8471958/50390304-fe929500-0778-11e9-8131-95e456ed0b2a.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/8471958/50390304-fe929500-0778-11e9-8131-95e456ed0b2a.png">
+</p>
 
 <center>Overall architecture of application</center>
 
