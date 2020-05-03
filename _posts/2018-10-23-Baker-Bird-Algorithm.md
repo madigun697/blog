@@ -3,7 +3,8 @@ layout: post
 title: "Baker-Bird Algorithm"
 date: 2018-10-23
 excerpt: "Text Pattern Matching Algorithms"
-visible: true
+categories:
+- Post
 tags: 
 - text pattern matching
 - baker-bird
@@ -174,7 +175,6 @@ for (er, ec) in result:
 ### References
 
 * http://www.stringology.org/papers/Zdarek-PhD_thesis-2010.pdf
-
 
 ---
 

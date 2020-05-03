@@ -3,9 +3,9 @@ layout: post
 title: "Comparing Topic Modeling and Document Clustering"
 date: 2018-12-21
 excerpt: "Visualization"
-project: true
-visible: true
-tag:
+categories:
+- Project
+tags:
 - Topic Modeling
 - Document Clustering
 - Visualization
@@ -75,3 +75,4 @@ Moreover, we make the application using Electron that is one of the famous platf
 
 ### Github
 [https://github.com/joyce04/electron_visualization](https://github.com/joyce04/electron_visualization)
+

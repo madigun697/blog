@@ -1,76 +1,35 @@
-# Site
-title:              "Kyle's Blog"
-bio:                'Data Scientist & SW Engineer... and Amatueur Photographer'
-description:        "This is Kyle's blog"
-reading_time:       true
-words_per_minute:   200
-logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
-url:                https://madigun697.github.io/blog
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
 
-# Jekyll
-permalink:          /:title/
-markdown:           kramdown
-highlighter:        rouge
-kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
-mathjax:            true
-sass:
-  sass_dir:         _sass
-  style:            compressed
+# Setup
+title:            Joohyung You
+tagline:          'Personal Blog'
+description:      'Data Scientist'
+url:              https://madigun697.github.io
+baseurl:          '/blog/'
+                  # the optional subpath of your site, e.g. "/blog"
+                  # NB: This applies to all pages in your Jekyll site.
+                  # If you want to move just the blog index pages but keep
+                  # other pages at root, see the paginate_path and
+                  # sidebar_blog_link below.
 
-# Comments
-disqus_shortname:   taylantatli
+author:
+  name:           'Joohyung You'
+  url:            
 
-# Social
-# if you don't have any of social below, comment the line.
-#google:
-  #plus:            #username
-  #analytics:
-  #verify:
-  #ad-client:
-  #ad-slot:
-#bing-verify:
-#email:
-# twitter:            Madigun
-facebook:           madigun.kail
-github-url:         madigun697
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           joohyung-you-675ba043
-#xing:              username
-instagram:          madigun.kyle
-#lastfm:            username
-#tumblr:            username
-#medium:            '@username'
-#pinterest:         username
-#foursquare:        username
-#steam:             username
-#dribbble:          username
-#youtube:           username
-#youtube-channel:   channel
-#soundcloud:        username
-#weibo:             username
-#flickr:            username
-#codepen:           username
-#keybase:           username
-#xmpp:              username@server.com
-#hackernews:        username
+paginate:         5
+# paginate_path:    '/page:num'
+                    # Or '/blog/page:num' if you want to move your index pages
 
-# Gems
-gems:
-  - jekyll-mentions
+plugins:
   - jekyll-feed
-  - jekyll-sitemap
   - jekyll-gist
+  - jekyll-paginate
 
-jekyll-mentions:
-    base_url: https://github.com
-
-# Exclude list
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
+# Sidebar link settings
+sidebar_home_link:  true
+# sidebar_blog_link:  '/blog'   # By default, your home page is your blog
+                                # page. If you change your paginate_path,
+                                # set this to the root of the paginate_path
+                                # to enable a separate blog link.

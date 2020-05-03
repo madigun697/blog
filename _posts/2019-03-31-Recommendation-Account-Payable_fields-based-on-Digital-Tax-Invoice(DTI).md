@@ -3,8 +3,8 @@ layout: post
 title:  "Recommendation Account Payable Fields base on Digital Tax Invoice(DTI)"
 date:   2019-03-31
 excerpt: "Machine Learning in ERP System"
-project: true
-visible: false
+categories:
+- Project
 tag:
 - ERP
 - AP

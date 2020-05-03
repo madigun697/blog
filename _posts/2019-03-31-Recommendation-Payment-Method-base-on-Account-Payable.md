@@ -3,9 +3,9 @@ layout: post
 title:  "Recommendation Payment Method base on Account Payable"
 date:   2019-03-31
 excerpt: "Machine Learning in ERP System"
-project: true
-visible: false
-tag:
+categories:
+- Project
+tags:
 - ERP
 - AP
 - Payment Method
@@ -15,7 +15,9 @@ comments: false
 ![Accuracy](https://user-images.githubusercontent.com/8471958/56104493-e38ba100-5f72-11e9-8e7e-56a6f16ef574.png)
     
 
-<center><b>The Accuracy by batch</center>
+<center>The Accuracy by batch</center>
+
+
 
 ## Project Description
 

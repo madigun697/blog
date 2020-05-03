@@ -2,10 +2,10 @@
 layout: post
 title: "Cryptocurrencies Auto Trading System"
 date: 2018-02-10
+categories:
+- Project
 excerpt: "Tracking Price Trend and Auto Trading"
-project: true
-visible: true
-tag:
+tags:
 - Cryptocurrency
 - Auto Trading
 commnets: false

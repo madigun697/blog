@@ -2,8 +2,10 @@
 layout: post
 title: "Knuth-Morris-Pratt(KMP) Algorithm"
 date: 2018-10-21
+categories:
+- Post
 excerpt: "Text Pattern Matching Algorithms"
-visible: true
+
 tags: 
 - text pattern matching
 - kmp

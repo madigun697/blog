@@ -3,7 +3,8 @@ layout: post
 title: "Data Compression(LZ78 & LZW)"
 date: 2018-11-12
 excerpt: "Data Compression"
-visible: true
+categories:
+- Post
 tags: 
 - data compression
 - lz78
