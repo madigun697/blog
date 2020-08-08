@@ -16,11 +16,14 @@ sidebar_link: true
 * Trainee, **Samsung Convergence Software Academy**(Samsung SDS, 2014)
 * Bachelor's Degree, **Business Administration and Management**(University of Seoul, 2005 ~ 2012)
 
+## <font color="#1487c8">Patent</font>
+* **Method and apparatus for extracting a pattern of time series data** (2020. 10-2020-0045066)
+
 ## <font color="#1487c8">Projects</font>
 
 #### <font color="#98a6ad">Official</font>
 
-* **Marketing target customer recommendation system based on the propensity of consume** - Purchase Propensity Model(PPM)<br>(March 2020 - Present, Samsung SDS)<br>
+* **Marketing target customer recommendation system based on the propensity of consume** - Purchase Propensity Model(PPM)<br>(March 2020 - August 2020, Samsung SDS)<br>
 ![python](https://img.shields.io/badge/python-green.svg?logo=python&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![brightics](https://img.shields.io/badge/Brightics-green.svg?logo=samsung&style=for-the-badge&colorB=AAAAAA){:class="img-badge"}
 * **Sellout Forecasting using the novel automated pattern extraction based on Non-parametric clustering for Erajaya**<br>(January 2020 - March 2020, Samsung SDS)<br>
 ![python](https://img.shields.io/badge/python-green.svg?logo=python&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![brightics](https://img.shields.io/badge/Brightics-green.svg?logo=samsung&style=for-the-badge&colorB=AAAAAA){:class="img-badge"}
