@@ -4,21 +4,19 @@ title: Joohyung You
 sidebar_link: false
 ---
 
-**<font color="#5fbeeb">Data Scientist</font>**<br>**<font color="#1487c8">Analytics Group, Samsung SDS</font>**
+**<font color="#5fbeeb">Data Scientist</font>**<br>**<font color="#1487c8">AI Analytics Group, Samsung SDS</font>**
 
 
 
 ### **About Me**
 
-I have over 5 years of experience working in the IT field. Currently, I work as a **Data Scientist** in **Samsung SDS**, discovering insights and improving effectiveness for our customers by using data analytics and developing the novel methodology. I develop a couple of novel predictive model for time-series dataset and maritime delays. Also, I'm participated in the several projects in Warehouse outbound predition, Fuel reporting abuse detection, and Abuser detection.
+I have various experience working in the IT field. Currently, I work as a Data Scientist in Samsung SDS, discovering insights and improving effectiveness for our customers by using data analytics and developing the novel methodology.
 
-Previously, I was **Software Engineer** at Samsung SDS, where I developed and managed various systems from the Healthcare solution to the SCM system. In the XeedLab, which is the in-startup project of Samsung, I have developed and launched the android applications which has achieved 5.3K downloads with 4.2 user ratings in the Indian market.
+Previously, I was Software Engineer at Samsung SDS, where I developed and managed various systems from the Healthcare solution to the SCM system. In the XeedLab, which is the in-startup project of Samsung, I have developed and launched the android applications named "Goodial", which has achieved 5.3K downloads with 4.2 user ratings in the Indian app store.
 
-I am a **fast prototype builder**, too. To solve the problems or curiosities, I spend my time. From the used-book searching chatbot to the auto trading system, I have focused on reducing the discomforts using technologies. Moreover, I have analyzed varied fields of data for my friends who work in football, healthcare or law.
+I am a fast prototype builder, too. To solve the problems or curiosities, I spend my time. From the used-book searching chatbot to the auto trading system, I have focused on reducing the discomforts using technologies. Moreover, I have analyzed varied fields of data for my friends who work in football, healthcare, or the law.
 
-For more information, refer to my resume:
-
-[Short version(1p)](https://drive.google.com/open?id=1TBobDgAch4WKCPmox9FmSM8qC-vQis0C) / [Long version(5p)](https://drive.google.com/open?id=1r0GmwfFqk88L9UIxrkK-mlMxu8t4HfnM)
+For more information, refer to my [resume](https://drive.google.com/file/d/1gCLmcBH_7jFzgNW706uiZdBYsQQXBlcn/view?usp=sharing)
 
 
 ### **Interests**
