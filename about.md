@@ -16,6 +16,9 @@ sidebar_link: true
 * Trainee, **Samsung Convergence Software Academy**(Samsung SDS, 2014)
 * Bachelor's Degree, **Business Administration and Management**(University of Seoul, 2005 ~ 2012)
 
+## <font color="#1487c8">Patent</font>
+* **Method and apparatus for extracting a pattern of time series data** (2020. 10-2020-0045066)
+
 ## <font color="#1487c8">Projects</font>
 
 #### <font color="#98a6ad">Official</font>
