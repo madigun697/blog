@@ -61,7 +61,7 @@ sidebar_link: true
 
 ## Patent
 
-* **Method and apparatus for extracting a pattern of time series data ** (April 14, 2020, KR 10-2020-0045066)
+* **Method and apparatus for extracting a pattern of time series data** (April 14, 2020, KR 10-2020-0045066)
 
 
 
