@@ -57,14 +57,6 @@ sidebar_link: true
 * **[<font color="#5fbeeb">Telegram Chat-Bot Project</font>](https://github.com/madigun697/aladin-usedbook-search-bot) - Searching available book in Korean used book on-line market**<br>(February 2017)  <br>
   ![python](https://img.shields.io/badge/python-green.svg?logo=python&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![google](https://img.shields.io/badge/google-green.svg?logo=google&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![telegram](https://img.shields.io/badge/telegram-green.svg?logo=telegram&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} 
 
-
-
-## Patent
-
-* **Method and apparatus for extracting a pattern of time series data** (April 14, 2020, KR 10-2020-0045066)
-
-
-
 ## <font color="#1487c8">Skills</font>
 
 ![python](https://img.shields.io/badge/python-2016~Now-green.svg?logo=python&style=for-the-badge&colorB=3776AB){:class="img-badge"} ![scala](https://img.shields.io/badge/scala-2018~Now-green.svg?logo=scala&style=for-the-badge&colorB=DC322F){:class="img-badge"} ![brightics](https://img.shields.io/badge/Brightics-2017~Now-green.svg?logo=samsung&style=for-the-badge&colorB=1428A0){:class="img-badge"}![SQL](https://img.shields.io/badge/SQL-2010~Now-green.svg?style=for-the-badge&colorB=4479A1){:class="img-badge"} 
