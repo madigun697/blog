@@ -26,9 +26,9 @@ sidebar_link: true
 
 * **Marketing target customer recommendation utilizing purchase propensity** - Purchase Propensity Model(PPM)<br>(March 2020 - August 2020, Samsung SDS)<br>
 ![python](https://img.shields.io/badge/python-green.svg?logo=python&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![brightics](https://img.shields.io/badge/Brightics-green.svg?logo=samsung&style=for-the-badge&colorB=AAAAAA){:class="img-badge"}
-* **Sellout Forecasting using the novel automated pattern extraction with Non-parametric clustering **<br>(January 2020 - March 2020, Samsung SDS)<br>
+* **Sellout Forecasting using the novel automated pattern extraction with Non-parametric clustering**<br>(January 2020 - March 2020, Samsung SDS)<br>
 ![python](https://img.shields.io/badge/python-green.svg?logo=python&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![brightics](https://img.shields.io/badge/Brightics-green.svg?logo=samsung&style=for-the-badge&colorB=AAAAAA){:class="img-badge"}
-* **Developing generalized time-series forecasting methodology using Non-parametric clustering **<br>(July 2019 - December 2019, Samsung SDS)<br>
+* **Developing generalized time-series forecasting methodology using Non-parametric clustering**<br>(July 2019 - December 2019, Samsung SDS)<br>
 ![python](https://img.shields.io/badge/python-green.svg?logo=python&style=for-the-badge&colorB=AAAAAA){:class="img-badge"}
 * **Warehouse Transportation Analytics** - Prediction of outbound based on Warehouse In/Outbound Trend<br>(May 2019 – July 2019, Saumsung SDS)<br>
 ![python](https://img.shields.io/badge/python-green.svg?logo=python&style=for-the-badge&colorB=AAAAAA){:class="img-badge"} ![brightics](https://img.shields.io/badge/Brightics-green.svg?logo=samsung&style=for-the-badge&colorB=AAAAAA){:class="img-badge"}
