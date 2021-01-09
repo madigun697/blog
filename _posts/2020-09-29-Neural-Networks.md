@@ -59,7 +59,7 @@ So, if the actual value is 1, cross-entropy is <img src="https://render.githubus
 
 In the regression problem, MSE is usually used as a loss function. This is a very simple loss function, the mean of differences between actual and predicted values.
 
-<img src="https://render.githubusercontent.com/render/math?math=MSE = {{1}\over{n}} \Sigma^n_{i=1} {(Y_i - \hat{Y_i})}^2"> where <img src="https://render.githubusercontent.com/render/math?math=Y_i"> is actual value, <img src="https://render.githubusercontent.com/render/math?math=\hat{Y_i}"> is precited value.
+<img src="https://render.githubusercontent.com/render/math?math=MSE = { {1}\over{n} } \Sigma^n_{i=1} {(Y_i - \hat{Y_i})}^2"> where <img src="https://render.githubusercontent.com/render/math?math=Y_i"> is actual value, <img src="https://render.githubusercontent.com/render/math?math=\hat{Y_i}"> is precited value.
 
 ### Activation Functions
 
