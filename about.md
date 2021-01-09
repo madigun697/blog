@@ -7,12 +7,14 @@ sidebar_link: true
 
 
 ## <font color="#1487c8">Experience</font>
-* **Samsung SDS** (Feb, 2015 ~ Aug, 2020, Leave of absence)
+* **Samsung SDS** (Feb, 2015 ~ Aug, 2020, Leave of Absence)
 * **Softcamp** (Aug, 2013 ~ Jun, 2014)
 * **Center for Management Information** in University of Seoul (Aug, 2010 ~ Jun, 2013)
 
 ## <font color="#1487c8">Education</font>
-* Nano Degree, **Deep Learning**(Udacity, 2020 ~ In progress)
+* Master's Degree, **Computer Science**(University of Texas at Austin, 2020 ~ )
+* Nano Degree, **Deep Reinforcemnet Learning**(Udacity, 2020)
+* Nano Degree, **Deep Learning**(Udacity, 2020)
 * Master's Degree, **Management Information System**(University of Seoul, 2012 ~ 2017)
 * Trainee, **Samsung Convergence Software Academy**(Samsung SDS, 2014)
 * Bachelor's Degree, **Business Administration and Management**(University of Seoul, 2005 ~ 2012)

@@ -4,31 +4,25 @@ title: Joohyung You
 sidebar_link: false
 ---
 
-**<font color="#5fbeeb">Data Scientist</font>**<br>**<font color="#1487c8">AI Analytics Group, Samsung SDS</font>**
+**<font color="#5fbeeb">Data Scientist</font>**<br>**<font color="#1487c8">AI Analytics Group, Samsung SDS</font>** <font color="#767676" style="font-size: 0.8rem;">(on Leave of Absence)</font>
 
 
 
 ### **About Me**
 
-I have various experience working in the IT field. Currently, I work as a Data Scientist in Samsung SDS, discovering insights and improving effectiveness for our customers by using data analytics and developing the novel methodology.
+I'm a Data Scientist, Software Engineer, and Student. 
 
-Previously, I was Software Engineer at Samsung SDS, where I developed and managed various systems from the Healthcare solution to the SCM system. In the XeedLab, which is the in-startup project of Samsung, I have developed and launched the android applications named "Goodial", which has achieved 5.3K downloads with 4.2 user ratings in the Indian app store.
-
-I am a fast prototype builder, too. To solve the problems or curiosities, I spend my time. From the used-book searching chatbot to the auto trading system, I have focused on reducing the discomforts using technologies. Moreover, I have analyzed varied fields of data for my friends who work in football, healthcare, or the law.
+- Forward-thinking Data Scientist experienced working with large  datasets, breaking down information, and applying interpretations to  complex business concerns in various domains, including natural language processing, sales prediction, trajectory clustering, target marketing,  and abuser detection.
+- Co-inventor of a patent for the time-series prediction method.  Adaptive, receptive, and a problem-solver at work while sharpening  skills on personal projects.
+- Cross-cultural communication skills in law, healthcare, sports, and  finance. Strives to deliver solutions to reveal hidden insights through  curiosity and analytical ability.
 
 For more information, refer to my [resume](https://drive.google.com/file/d/1gCLmcBH_7jFzgNW706uiZdBYsQQXBlcn/view?usp=sharing)
-
-
-### **Interests**
-
-- Anomaly Detection
-- Recommendation System
-- Sport analysis using ML
 
 
 
 ### **Education**
 
+- Master of Science in Computer Science (in progress)<br><font color="#767676" style="font-size: 0.8rem;">University of Texas at Austin, TX, United States</font>
 - Master of Business Administration, 2017<br><font color="#767676" style="font-size: 0.8rem;">University of Seoul, Seoul, South Korea</font>
 - Bachelor of Business Administration, 2012<br><font color="#767676" style="font-size: 0.8rem;">University of Seoul, Seoul, South Korea</font>
 
