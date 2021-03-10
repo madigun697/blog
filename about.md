@@ -7,7 +7,8 @@ sidebar_link: true
 
 
 ## <font color="#1487c8">Experience</font>
-* **Samsung SDS** (Feb, 2015 ~ Aug, 2020, Leave of Absence)
+* **Age of Learning** (Mar, 2021 ~ Present)
+* **Samsung SDS** (Feb, 2015 ~ Feb, 2021)
 * **Softcamp** (Aug, 2013 ~ Jun, 2014)
 * **Center for Management Information** in University of Seoul (Aug, 2010 ~ Jun, 2013)
 

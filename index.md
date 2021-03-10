@@ -4,13 +4,13 @@ title: Joohyung You
 sidebar_link: false
 ---
 
-**<font color="#5fbeeb">Data Scientist</font>**<br>**<font color="#1487c8">AI Analytics Group, Samsung SDS</font>** <font color="#767676" style="font-size: 0.8rem;">(on Leave of Absence)</font>
+**<font color="#5fbeeb">Data Engineer</font>**<br>**<font color="#1487c8">Data Engineering, Age of Learning</font>** <font color="#767676" style="font-size: 0.8rem;">(on Leave of Absence)</font>
 
 
 
 ### **About Me**
 
-I'm a Data Scientist, Software Engineer, and Student. 
+I'm a Data Engineer, Data Scientist, Software Engineer, and Student. 
 
 - Forward-thinking Data Scientist experienced working with large  datasets, breaking down information, and applying interpretations to  complex business concerns in various domains, including natural language processing, sales prediction, trajectory clustering, target marketing,  and abuser detection.
 - Co-inventor of a patent for the time-series prediction method.  Adaptive, receptive, and a problem-solver at work while sharpening  skills on personal projects.
